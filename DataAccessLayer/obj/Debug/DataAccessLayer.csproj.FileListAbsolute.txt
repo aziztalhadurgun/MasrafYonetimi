@@ -1,0 +1,6 @@
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache

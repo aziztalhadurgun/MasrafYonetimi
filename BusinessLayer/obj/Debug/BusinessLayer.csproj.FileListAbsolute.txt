@@ -1,0 +1,11 @@
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Merhaba\source\repos\MasrafOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.pdb
